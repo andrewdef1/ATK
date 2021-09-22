@@ -1,0 +1,423 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"b",
+				"blockquote	Tag"
+			],
+			[
+				"loca",
+				"localhost"
+			],
+			[
+				"jenis",
+				"jenis_atk"
+			],
+			[
+				"tgl",
+				"tgl"
+			],
+			[
+				"Satuan",
+				"spl_autoload_functions"
+			],
+			[
+				"ATK",
+				"ATK"
+			],
+			[
+				"M",
+				"Masuk"
+			],
+			[
+				"d",
+				"date"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "pages/distribusi/distedit.php",
+			"settings":
+			{
+				"buffer_size": 7010,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "pages/distribusi/distribusi.php",
+			"settings":
+			{
+				"buffer_size": 5059,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "pages/distribusi/distview.php",
+			"settings":
+			{
+				"buffer_size": 3593,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "pages/distribusi/koneksi.php",
+			"settings":
+			{
+				"buffer_size": 391,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "pages/distribusi/paging.php",
+			"settings":
+			{
+				"buffer_size": 1176,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/xampp/htdocs/ATK",
+		"/C/xampp/htdocs/ATK/Backup",
+		"/C/xampp/htdocs/ATK/pages",
+		"/C/xampp/htdocs/ATK/pages/distribusi",
+		"/C/xampp/htdocs/ATK/pages/nota"
+	],
+	"file_history":
+	[
+		"/C/xampp/htdocs/ATK/_footer.php",
+		"/C/xampp/htdocs/ATK/pages/gudang/entry.php",
+		"/C/xampp/htdocs/ATK/pages/administrator/koneksi.php",
+		"/C/xampp/htdocs/ATK/pages/gudang/monthreportingatkmasuk.php",
+		"/C/xampp/htdocs/ATK/pages/administrator/monthreportingatkmasuk.php",
+		"/C/xampp/htdocs/ATK/pages/administrator/monthreportingatkkeluar.php",
+		"/C/xampp/htdocs/ATK/pages/gudang/monthreportingatkkeluar.php",
+		"/C/xampp/htdocs/ATK/dashboard.php",
+		"/C/xampp/htdocs/ATK/_nav-slider.php",
+		"/C/xampp/htdocs/ATK/_main-nav.php",
+		"/C/xampp/htdocs/ATK/style.css",
+		"/C/xampp/htdocs/ATK/fonts/fontawesome-webfont.ttf",
+		"/C/xampp/htdocs/ATK/Papua-.png",
+		"/C/xampp/htdocs/ATK/John Martin - Anywhere For You (Tiësto vs Dzeko & Torres Remix).swf",
+		"/C/xampp/htdocs/ATK/Graphicloads-100-Flat-2-Bank.ico",
+		"/C/xampp/htdocs/ATK/_db.php",
+		"/C/xampp/htdocs/ATK/pages/nota/nota.php",
+		"/C/xampp/htdocs/ATK/css/style.default.css",
+		"/D/Music/mymuse-new/Zedd feat Foxes - Clarity.mp3",
+		"/C/xampp/htdocs/ATK/pages/laporan/report.php",
+		"/C/xampp/htdocs/ATK/pages/web/export-excel-atk-masuk.php",
+		"/C/xampp/htdocs/ATK/pages/laporan/Classes/PHPExcel/Worksheet.php",
+		"/C/xampp/htdocs/ATK/pages/laporan/Classes/PHPExcel.php",
+		"/C/Users/Andrew-PC/AppData/Roaming/Sublime Text 3/Packages/Default/Default (Windows).sublime-keymap",
+		"/C/Users/Andrew-PC/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/C/xampp/htdocs/ATK/ATK.sublime-project",
+		"/C/xampp/htdocs/ATK/pages/web/export-excel-eoq.php",
+		"/C/xampp/htdocs/ATK/pages/web/export-excel-atk-keluar.php"
+	],
+	"find":
+	{
+		"height": 21.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"-</",
+			"ATK",
+			"45729e",
+			".headerpanel",
+			"logopanel",
+			"logopane\n",
+			"logopane",
+			"header",
+			"body",
+			"msf_pd",
+			"msf_pdf.php",
+			"Html2PDF",
+			"Html2FPDF",
+			"fpdf"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "pages/distribusi/distedit.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 7010,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								5193,
+								5193
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "pages/distribusi/distribusi.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 5059,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "pages/distribusi/distview.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3593,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "pages/distribusi/koneksi.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 391,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "pages/distribusi/paging.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1176,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 21.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"project": "ATK.sublime-project",
+	"replace":
+	{
+		"height": 38.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 313.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

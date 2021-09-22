@@ -1,0 +1,201 @@
+@charset "utf-8";
+body {
+	background-image: url(background.jpg);
+
+	o-repeat center center fixed; #fff;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+	background-attachment: fixed;
+	background-attachment: fixed;
+	background-repeat: no-repeat;
+	color: #000;
+	font-size: 12px;
+	font-family: verdana;
+	line-height: 1;
+	background-position: center top;
+	width: auto;
+}
+
+#menu{
+	width: auto;
+	height: 30px;
+	padding: 8px 0 0px 0;
+		}
+ 
+		#menu ul{
+			margin:0;
+		}
+ 
+		#menu ul li{
+	list-style-type: none;
+	margin: 0;
+	float: left;
+	font-size: 16px;
+	text-align: center;
+		}
+ 
+		#menu ul li a{
+			font-family:Arial;
+			text-decoration:none;
+			margin:0 10px 0 0;
+			font-size:12px;
+			color:#fff;
+		}
+ 
+		#menu ul li ul.child{
+			display:none;
+		}
+ 
+		#menu ul li:hover ul.child{
+			display:block;
+			position:absolute;
+			z-index:2;
+			text-align:left;
+		}
+ 
+		#menu ul li:hover ul.child li a{
+	display: block;
+	padding: 10px 20px 10px 20px;
+	margin: 0 0 0 -20px;
+		}
+ 
+		#menu ul li:hover ul.child li{
+			float:none;
+			margin:0 0 0 -30px;
+		}
+ 
+		#menu ul li a:hover{
+			text-decoration:underline;
+		}
+		
+1
+2
+3
+#menu ul.parent li ul.child{
+display:none;
+}
+
+1
+2
+3
+4
+5
+6
+#menu ul.parent li:hover ul.child{
+display:block;
+position:absolute;
+z-index:2;
+text-align:left;
+}
+
+.kertas{
+	width: 679px;
+	height: 100%;
+	padding: 15px;
+	position: relative;
+	font-family: Arial, Helvetica, sans-serif;
+	box-shadow: 0 1px 10px rgba(0,0,0,.3);
+	margin-top: 50px;
+	margin-right: auto;
+	margin-bottom: 20px;
+	margin-left: auto;
+	font-style: normal;
+	background-color: #FFF;
+}
+
+.kertas::before, .kertas::after{
+	background:#d8d8d8;
+	content:"";
+	width:100px;
+	height:50px;
+	position:absolute;
+	top:-25px;
+	box-shadow:0 5px 10px -7px rgba(0,0,0,.3);
+}
+
+.kertas::before{
+	left:-50px;
+	-webkit-transform: rotate(-45deg);
+	-moz-transform: rotate(-45deg);
+	-ms-transform: rotate(-45deg);
+	-o-transform: rotate(-45deg);
+	transform: rotate(-45deg);
+}
+.kertas::after{
+	right:-50px;
+	-webkit-transform: rotate(45deg);
+	-moz-transform: rotate(45deg);
+	-ms-transform: rotate(45deg);
+	-o-transform: rotate(45deg);
+	transform: rotate(45deg);
+}
+
+.kertas::before, .kertas::after{
+	background:rgba(255,255,255,.5);
+	content:"";
+	width:100px;
+	height:25px;
+	position:absolute;
+	top:-10px;
+	box-shadow:0 5px 10px -7px rgba(0,0,0,.3);
+}
+.footer{
+	bottom: 0;
+	position: fixed;
+	width: 100%;
+	font-size: 14px;
+	background-position: left;
+	background-color: #f0f0f0;
+	color: #FFF;
+	padding: 0px;
+	background-repeat: repeat-x;
+	right: 0px;
+	height: 20px;
+	text-align: center;
+		}
+			.footer a{
+				text-decoration: none;
+				font-weight: bold;
+				color: #000;
+			}
+.kertas div {
+	font-size: 12px;
+}
+.kertas table {
+	font-size: 10px;
+}
+.kertas table tr td {
+	font-family: "MS Serif", "New York", serif;
+	font-size: 14px;
+}
+.footer div {
+	color: #000;
+}
+.footer table tr td font {
+	text-align: center;
+}
+.footer table tr td {
+	color: #000;
+
+}
+.kertas table tr td u {
+	font-size: 36px;
+}
+
+.error {
+	border:1px solid #FF8080;
+	background-color:#FFCECE;
+	padding:3px;
+	margin:5px 0px;
+	text-align:center;
+}
+
+.ok {
+	border:1px solid #80FF80;
+	background-color:#CFC;
+	padding:3px;
+	margin:5px 0px;
+	text-align:center;
+}

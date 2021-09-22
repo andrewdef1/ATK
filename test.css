@@ -1,0 +1,14 @@
+@charset "utf-8";
+body {
+	font-family: "Segoe Print";
+	font-size: 12px;
+	background-image: url(Papua-.png);
+	background-repeat: repeat-x;
+	padding: 1px;
+	height: 768px;
+	width: 1366px;
+}
+#wrapper {
+	background-image: url(%C2%A4-PRODUCTIONS-10-%C2%A4.png);
+	background-repeat: repeat-y;
+}

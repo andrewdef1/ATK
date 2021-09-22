@@ -1,0 +1,81 @@
+@charset "utf-8";
+/* CSS Document */
+h1, h2, h3 {
+	margin:0;
+	padding:0;
+}
+
+#container {
+	width: 90%;
+	padding: 10px;
+	background-color: #FFF;
+	box-shadow: 0px 0px 3px #000;
+	margin-top: 20px;
+	margin-right: auto;
+	margin-bottom: 20px;
+	margin-left: auto;
+}
+
+#header {
+	text-align:center;
+}
+
+#menu {
+	text-align: center;
+	margin: 15px 0px;
+	border-top: 1px solid #CCC;
+	border-bottom: 1px solid #CCC;
+}
+
+	#menu a {
+		display:inline-block;
+		padding:5px 10px;
+		text-decoration:none;
+		color:#000;
+		font-weight:bold;
+	}
+	
+		#menu a:hover {
+	background-color: #CCC;
+		}
+		
+		#menu a.active {
+	background-color: #CCC;
+		}
+ {
+	border-collapse: collapse;
+	box-shadow: 0 2px 3px 1px #ddd;
+	table-layout: fixed;
+	border: 10px solid #fff;
+	width: auto;
+	height: auto;
+	margin: auto;
+	padding: 90%;
+}
+
+.table, th, td {
+	border-collapse: collapse;
+	border: 1px solid #CCC;
+	font-size: 9px;
+}
+
+	.table th {
+	background-color: #333;
+	}
+	
+.error {
+	border:1px solid #FF8080;
+	background-color:#FFCECE;
+	padding:3px;
+	margin:5px 0px;
+	text-align:center;
+}
+
+.ok {
+	border:1px solid #80FF80;
+	background-color:#CFC;
+	padding:3px;
+	margin:5px 0px;
+	text-align:center;
+
+}
