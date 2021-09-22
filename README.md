@@ -1,2 +1,2 @@
 # ATK
-Inter Apps while in High School
+Intern Apps while in High School
